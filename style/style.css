@@ -67,6 +67,7 @@ section#img01 {
 
 section#img02 {
     background-image: url('../../html-css/modulo3/midia/images/desafios/d012/imagens/background002.jpg');
+    background-position: right center;
 }
 
 section.imagem {
@@ -75,7 +76,6 @@ section.imagem {
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
     background-attachment: fixed;
-    background-position: right center;
 }
 
 section.imagem > p {
